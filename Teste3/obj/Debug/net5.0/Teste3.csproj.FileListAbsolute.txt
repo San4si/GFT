@@ -1,0 +1,16 @@
+C:\GFT\Teste3\bin\Debug\net5.0\Teste3.exe
+C:\GFT\Teste3\bin\Debug\net5.0\Teste3.deps.json
+C:\GFT\Teste3\bin\Debug\net5.0\Teste3.runtimeconfig.json
+C:\GFT\Teste3\bin\Debug\net5.0\Teste3.runtimeconfig.dev.json
+C:\GFT\Teste3\bin\Debug\net5.0\Teste3.dll
+C:\GFT\Teste3\bin\Debug\net5.0\ref\Teste3.dll
+C:\GFT\Teste3\bin\Debug\net5.0\Teste3.pdb
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.csproj.AssemblyReference.cache
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.AssemblyInfoInputs.cache
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.AssemblyInfo.cs
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.csproj.CoreCompileInputs.cache
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.dll
+C:\GFT\Teste3\obj\Debug\net5.0\ref\Teste3.dll
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.pdb
+C:\GFT\Teste3\obj\Debug\net5.0\Teste3.genruntimeconfig.cache
